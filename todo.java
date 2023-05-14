@@ -1,5 +1,4 @@
-//2022-10-18 - Project5 - ToDoList - tjudge
-//2022-10-29 - last tested
+//Project5 - ToDoList - tjudge
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
